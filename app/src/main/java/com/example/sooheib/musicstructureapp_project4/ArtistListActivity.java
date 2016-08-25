@@ -6,6 +6,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
+/**
+ * Created by sooheib on 8/25/16.
+ */
 public class ArtistListActivity extends AppCompatActivity {
 
     @Override
